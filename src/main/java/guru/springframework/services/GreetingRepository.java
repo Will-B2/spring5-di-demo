@@ -10,4 +10,5 @@ public interface GreetingRepository {
     String getSpanishGreeting();
 
     String getGermanGreeting();
+
 }
